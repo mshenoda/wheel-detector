@@ -1,0 +1,6 @@
+train: ./data_split/train/
+val: ./data_split/validate/
+
+# Classes
+nc: 1  # number of classes
+names: ['wheel']  # class names

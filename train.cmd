@@ -1,0 +1,1 @@
+python ..\yolov5\train.py --img %1 --batch %2 --epochs %3 --data .\wheel_dataset.yaml --cfg .\wheel_detector.yaml --weights .\wheel_detector.pt --project wheel_detector --name wheel_model --cache
