@@ -138,3 +138,16 @@ labelImg .\data\images\ classes.txt .\data\labels\
 to make things easy, make sure you select auto save mode option under view menu
 
 </details>
+
+## Detection Demo
+![test1](demo/test1.jpg)
+![test2](demo/test2.jpg)
+![test3](demo/test3.jpg)
+![test4](demo/test4.jpg)
+![test5](demo/test5.jpg)
+![test6](demo/test6.jpg)
+![test7](demo/test7.jpg)
+![test8](demo/test8.jpg)
+![test9](demo/test9.jpg)
+![test10](demo/test10.jpg)
+![test11](demo/test11.jpg)
