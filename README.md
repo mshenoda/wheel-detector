@@ -139,6 +139,11 @@ to make things easy, make sure you select auto save mode option under view menu
 
 </details>
 
+## Paper
+Lighting and Rotation Invariant Real-time Detector 
+Based on YOLOv5: Vehicle Wheel Detector 
+https://arxiv.org/abs/2305.17785
+
 ## Overview Presentation
 
 [![Presentation](https://img.youtube.com/vi/9dNJMt7Opuo/0.jpg)](https://www.youtube.com/watch?v=9dNJMt7Opuo&t=3s)
